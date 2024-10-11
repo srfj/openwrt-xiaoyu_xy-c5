@@ -16,3 +16,4 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git luci-app-mwan3helper-chinaroute https://github.com/padavanonly/luci-app-mwan3helper-chinaroute' >>feeds.conf.default
